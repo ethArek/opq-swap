@@ -6,7 +6,7 @@ import "@openzeppelin/token/ERC20/IERC20.sol";
 contract Swap {
     address owner;
     address constant opacityAddress = address(
-        0x77599D2C6DB170224243e255e6669280F11F1473
+        0xaff4481d10270f50f203e0763e2597776068cbc5
     );
     IERC20 constant opacityToken = IERC20(opacityAddress);
     uint8[] validTokenAmounts = [2, 16, 32];
