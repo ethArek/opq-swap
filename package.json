@@ -32,6 +32,6 @@
     "standard": "^11.0.1"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^2.5.0"
+    "@openzeppelin/contracts": "^4.7.2"
   }
 }
